@@ -1,0 +1,13 @@
+Month	Profit_Margin
+Jan	35
+Feb	32
+Mar	17
+Apr	16
+May	16
+Jun	16
+Jul	24
+Aug	12
+Sep	31
+Oct	17
+Nov	23
+Dec	30

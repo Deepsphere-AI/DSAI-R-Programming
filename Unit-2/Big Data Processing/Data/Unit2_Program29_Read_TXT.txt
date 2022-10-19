@@ -1,0 +1,9 @@
+Company	Company_Code_Country	Posting_Date	Document_Date	Currency 	Trading_Partner	Trading_Partner_Country	Transaction_Type	Data_Source	Data_Category	Account 	Transaction_Amount	Predicted_Inter_Transaction_Type
+1000	USA	01-01-2018	01-01-2018	Local Currency	2000	Canada 	AR	SAP	ACTUAL	100999	100000	1
+1000	USA	01-01-2018	01-01-2018	Local Currency	3000	India	AR	SAP	ACTUAL	100999	100000	1
+1000	USA	01-01-2018	01-01-2018	Local Currency	4000	China	AR	SAP	ACTUAL	100999	100000	1
+1000	USA	02-01-2018	01/30/2018	Local Currency	2000	Canada 	AR	SAP	ACTUAL	100999	200000	1
+1000	USA	02-01-2018	01/30/2018	Local Currency	3000	India	AR	SAP	ACTUAL	100999	200000	1
+1000	USA	02-01-2018	01/30/2018	Local Currency	4000	China	AR	SAP	ACTUAL	100999	200000	1
+1000	USA	02/15/2018	02/15/2018	Local Currency	2000	Canada 	AR	SAP	ACTUAL	100999	300000	1
+1000	USA	02/15/2018	02/15/2018	Local Currency	3000	India	AR	SAP	ACTUAL	100999	300000	1

@@ -1,0 +1,4 @@
+Year	Sales	Operating_Expenses	Operating_Income	Net_Income
+2012	11924	5944	2359	9466
+2013	9565	8454	2198	10958
+2014	8499	6432	2124	9759

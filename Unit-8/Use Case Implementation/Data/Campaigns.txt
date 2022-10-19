@@ -1,0 +1,5 @@
+Campaigns	Revenue($)
+DM Campaign to Top Customers	235
+GC Product Webinar	135
+International Engineer Association	340
+User Conference	70

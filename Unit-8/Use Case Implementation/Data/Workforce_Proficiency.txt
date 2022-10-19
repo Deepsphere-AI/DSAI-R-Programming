@@ -1,0 +1,5 @@
+Skill	Excellent	Fair	Good	Handson	Only_Training
+Analytics	3.8	0.8	3	3.4	4.5
+Technical	0.7	1.6	2.3	0.7	0.8
+Communication	0.4	0.5	1.2	0.5	0.4
+Time Management	2.5	0.5	1.2	2.3	0.7

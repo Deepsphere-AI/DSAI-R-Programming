@@ -1,0 +1,5 @@
+KPI	Actual_YTD($)	Last_Year_YTD($)	Change
+Subtotals	8945	7789	1156
+Assets	5728	7348	-1620
+Assets less Liability & Equity	4247	3899	348
+Liabilities & Equity	1481	3449	-1968
